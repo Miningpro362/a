@@ -1,0 +1,13 @@
+name = "uwu"
+author = "hellhole system"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a8be371da907ef5b8c7213a1eb0f6969ecdf06890280de7041caac91582fad1"
+
+[versions]
+forge = "40.1.80"
+minecraft = "1.18.2"
