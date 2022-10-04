@@ -189,14 +189,6 @@ file = "mods/additionalbarsbop-3.0.1-beta+1.18.2.jar"
 hash = "9991049439ea8410cc9a25a335f792165c5c2670ca74307d4fa693456f2d3c3f"
 
 [[files]]
-file = "mods/alexsdelight-1.18.2-1.2.3.jar"
-hash = "a242631ed7ed2002f65e93b3ca14b713b293febfc2e514ad5203a57b20c79593"
-
-[[files]]
-file = "mods/alexsmobs-1.18.6.jar"
-hash = "32198d95d5c6caa4346db4f71f6b43a72fb89cd22e1b3df4c745c63e390e4b76"
-
-[[files]]
 file = "mods/allay-forge-1.18.x-4.0.0.jar"
 hash = "7d42c2e9c7c750757c0c4fe5890bb52c51a166013de1cf62f08a36998c19d02b"
 
@@ -221,6 +213,10 @@ file = "mods/carryon-1.18.2-1.17.0.8.jar"
 hash = "98adc2d5aae23d6b2e0fced5b82b8dce436ff67f6f7e960cd009429be3501401"
 
 [[files]]
+file = "mods/catalogue-1.6.2-1.18.2.jar"
+hash = "15ba1b74001115924af528e40c157a100aff8cbf0a5a5533ff6cbb8ba8ec19c3"
+
+[[files]]
 file = "mods/cc-tweaked-1.18.2-1.100.9.jar"
 hash = "fe61af8af1f436c32bdebb2f6269b7d22cb5744c4ec25952658bbc9e5193dbb0"
 
@@ -239,6 +235,14 @@ hash = "46a84bb000412eabeb8330a446f0efe651d4218edb32434a14476cdc6197c01c"
 [[files]]
 file = "mods/collective-1.18.2-4.30.jar"
 hash = "224bcb898f9341a8cb2f9d4bf6ddcf9efec60ea8e45d21c7df59880db7df0264"
+
+[[files]]
+file = "mods/configured-2.0.0-1.18.2.jar"
+hash = "df2c06255e922f3156403c7b1a48ada190d47e6889293ea8ddf7a32ab1e8d00c"
+
+[[files]]
+file = "mods/controllable-0.16.5-1.18.2.jar"
+hash = "bb4efad81968f63605e82700834231e097085c957b8c9e1b36595a85a05ccf36"
 
 [[files]]
 file = "mods/coppergolem-1-18-2b.jar"
@@ -321,16 +325,12 @@ file = "mods/horizontalpanes-1.1.7+1.18.2.jar"
 hash = "801926adf0a2e420bfbd0d649d3434d6b42b5f6e7a73f8d75e4691a32124a1f3"
 
 [[files]]
-file = "mods/idas_forge-1.2.4+1.18.2.jar"
-hash = "4cdc65a66f4ef15b5b9df5922ccf2c64345fcc2f7b4b1392756905c58373cd07"
-
-[[files]]
 file = "mods/incontrol-1.18-6.0.13.jar"
 hash = "4333bfa67464228a93cece3c3d21f04f7b21338d22979257d84a31d0774b472b"
 
 [[files]]
-file = "mods/jei-1.18.2-9.7.0.209.jar"
-hash = "3afb4f598cc3d4d05f6944b227dfbdf43f00e8e6102a1a33895a6f5b0ec134d9"
+file = "mods/jei-1.18.2-9.7.2.264.jar"
+hash = "0327035dfeb01d6aed666b3f7fa0799d5b5d9cff1ef8bc930e80b333d717b4bd"
 
 [[files]]
 file = "mods/konkrete_forge_1.3.3_MC_1.18-1.18.1.jar"
